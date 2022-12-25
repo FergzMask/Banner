@@ -38,4 +38,6 @@ timeline
   .to(".lto", { opacity: 1 }, 13.5)
   .to(".lto", { opacity: 0 }, 14)
   .to(".lto", { opacity: 1 }, 14.5)
-  .to(".hiring", { duration: 3, opacity: 1, x: "100vw" }, 16.5);
+  .to(".hiring", { duration: 3, opacity: 1, x: "100vw" }, 16.5)
+  .from(".reach", { y: "-100vh" }, 16.5)
+  .from(".contact", { y: "100vh", stagger: 0.3 }, 17);
