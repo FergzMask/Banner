@@ -14,8 +14,6 @@ timeline
       ease: "bounce.out",
       opacity: 1,
       y: "-100vh",
-      strength: 0.1,
-      squash: 2,
     },
     2.1
   )
@@ -23,4 +21,12 @@ timeline
     ".fa-5x",
     { duration: 2, ease: "power2.in", x: "100vw", stagger: 0.5 },
     2.5
-  );
+  )
+  .to(
+    ".experience",
+    {
+      y: "100vh",
+    },
+    8.5
+  )
+  .to(".fa-5x", { duration: 3, y: "100vh" }, 8.5);
