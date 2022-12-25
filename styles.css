@@ -22,11 +22,11 @@ body {
 }
 
 .experience {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   opacity: 0;
   position: absolute;
-  top: -1.5rem;
-  left: 1rem;
+  top: -0.9rem;
+  left: 1.4rem;
   width: 4rem;
 }
 
@@ -39,17 +39,29 @@ body {
 .fa-php {
   position: absolute;
   top: 0.3rem;
-  left: 14rem;
+  left: 14.5rem;
 }
 
 .fa-square-js {
   position: absolute;
   top: 0.3rem;
-  left: 21.5rem;
+  left: 22.3rem;
 }
 
 .fa-wordpress-simple {
   position: absolute;
   top: 0.3rem;
-  left: 27.2rem;
+  left: 28rem;
+}
+
+.fa-html5 {
+  position: absolute;
+  top: 0.3rem;
+  left: 34.3rem;
+}
+
+.fa-css3-alt {
+  position: absolute;
+  top: 0.3rem;
+  left: 39.8rem;
 }

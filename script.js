@@ -37,4 +37,9 @@ timeline
     ".fa-html5",
     { duration: 2, ease: "power2.in", opacity: 1, x: "100vw" },
     6
+  )
+  .from(
+    ".fa-css3-alt",
+    { duration: 2, ease: "power2.in", opacity: 1, x: "100vw" },
+    6.5
   );
