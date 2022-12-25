@@ -73,3 +73,48 @@ body {
   top: -3.7rem;
   left: 2rem;
 }
+
+.available {
+  opacity: 0;
+  position: absolute;
+  top: -0.3rem;
+  left: 30rem;
+}
+
+.act {
+  opacity: 0;
+  position: absolute;
+  top: 1.2rem;
+  left: 30rem;
+}
+
+.lto {
+  opacity: 0;
+  position: absolute;
+  top: 2.7rem;
+  left: 30rem;
+}
+
+.reach {
+  position: absolute;
+  top: 0rem;
+  left: 30rem;
+}
+
+.fa-linkedin {
+  position: absolute;
+  top: 2.7rem;
+  left: 30rem;
+}
+
+.fa-github {
+  position: absolute;
+  top: 2.7rem;
+  left: 34rem;
+}
+
+.fa-envelope {
+  position: absolute;
+  top: 2.7rem;
+  left: 38rem;
+}
