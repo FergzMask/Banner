@@ -15,7 +15,7 @@ timeline
       opacity: 1,
       y: "-100vh",
     },
-    2.1
+    2.2
   )
   .from(
     ".fa-5x",
